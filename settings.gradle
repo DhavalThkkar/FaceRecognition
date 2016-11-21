@@ -1,0 +1,2 @@
+include ':app', ':facerecognitionlibrary', ':openCVLibrary310'
+project(':openCVLibrary310').projectDir = new File('facerecognitionlibrary/openCVLibrary310')

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\exploded-aar\Face Recognition\facerecognitionlibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92ff8f5d942cce543ab85a4bf962224bb13c3437">
+        <dex dex="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\pre-dexed\debug\Face Recognition-facerecognitionlibrary-unspecified_3e6ef0ddde9de7b47d95e51668cb7f1cffa400e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_c7d459fed74dd408bd53c9074b0906e0f6224102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thakk\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_29f57be98683aab0ab675238da697e9e88403d37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_c0eda978b4aa8f21639f1680973cbded342ad9a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_4fdb754947cba3b7839635005655a379fd1bebf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_a6be53e4bf8887983373d1f5ef75b72ed011df77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_42720320e82125c92b197d2646c5627e6bd1c145.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\exploded-aar\Face Recognition\openCVLibrary310\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="608e4700fb6772d37c8d0ba1e2e55ed0e1cde1a1">
+        <dex dex="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\pre-dexed\debug\Face Recognition-openCVLibrary310-unspecified_02345216ab2037f10787187f4a8fc21d1d790ac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_803db567ecce46346e1ef07527332ba60becbde6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_dabc9afa1f075cd975c8f46a2e30e4366f07205c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\thakk\Desktop\Face Recognition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_44132181bd1d3d16c02aaa30e1f1d4667c47c5f0.jar" />
+    </item>
+
+</items>
